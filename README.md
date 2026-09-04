@@ -63,4 +63,52 @@ The ERD is kept in:
 
 docs/ERD.pdf
 
+Section B: API Endpoint Plan
+
+The API Endpoint Plan outlines a RESTful approach to developing the API in another phase of the project.
+
+This endpoint plan consists of the following six columns:
+
+HTTP Method
+
+Route
+
+Description
+
+Role Required
+
+Request Body
+
+Expected Response
+
+The planned API functionality includes:
+
+Authentication
+
+Registration and login of users:
+
+User Profile
+
+Access to and editing their own account.
+
+Events
+
+Viewing, creating, updating and deleting events.
+
+Categories
+
+Accessing and controlling categories of events.
+
+Event Enrolments
+
+Enabling Participants to register for events and Organisers to see which Participants are registered for their events.
+
+Results
+
+Provide Organisers with the ability to take photos of the finish line to record finishing times and positions; and provide Participants with a view of their own performance.
+
+The API Endpoint Plan is stored in:
+
+docs/RaceDay_API_Endpoint_Plan.pdf
+
 
