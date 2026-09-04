@@ -135,5 +135,5 @@ Sample Enrolments.
 
 The following SQL Database Script is stored in:
 Pictures folder
-docs/API.sql
+docs/RaceDay.Database.sql
 
