@@ -137,3 +137,9 @@ The following SQL Database Script is stored in:
 Pictures folder
 docs/RaceDay.Database.sql
 
+GitHub Repository
+
+The RaceDay Part 1 project is stored in GitHub and managed.
+
+Repository includes all the necessary files of Part 1 and shows the development process, along with useful commits.
+
