@@ -99,6 +99,6 @@ Provide Organisers with the ability to take photos of the finish line to record 
 
 The API Endpoint Plan is stored in:
 
-docs/RaceDay_API_Endpoint_Plan.pdf
+docs/API.pdf
 
 
