@@ -16,15 +16,10 @@ In Part 1 of this contract, the following deliverables are 'co-part of' the over
 Create, read, update, and delete data at any point.“Get access to the data, anytime, anywhere”
 
 API Endpoint Plan
-
 SQL Database Script
-
 GitHub Repository
-
 GitHub Actions CI/CD
-
 README File
-
 Video Presentation
 
 
