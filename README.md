@@ -143,3 +143,10 @@ The RaceDay Part 1 project is stored in GitHub and managed.
 
 Repository includes all the necessary files of Part 1 and shows the development process, along with useful commits.
 
+Repository Structure
+
+docs
+pictures.pdf
+ReadMe.md
+RaceDay.Database.sql
+
