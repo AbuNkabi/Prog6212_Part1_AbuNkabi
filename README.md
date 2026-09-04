@@ -65,15 +65,10 @@ The API Endpoint Plan outlines a RESTful approach to developing the API in anoth
 This endpoint plan consists of the following six columns:
 
 HTTP Method
-
 Route
-
 Description
-
 Role Required
-
 Request Body
-
 Expected Response
 
 The planned API functionality includes:
