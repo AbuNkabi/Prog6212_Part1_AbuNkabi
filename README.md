@@ -33,15 +33,10 @@ Section A: Entity Relationship Diagram
 The RaceDay ERD has 6 entities:
 
 User
-
 Event
-
 EventType
-
 Category
-
 Enrolment
-
 Result
 
 The ERD shows the attributes, primary keys, foreign keys, relationships and cardinality for the RaceDay system.
