@@ -1,0 +1,32 @@
+name: Prog6212 Part 1 CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  validate-part1:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check required Part 1 files
+        run: |
+          test -f README.md
+          test -f RaceDay.Database.sql
+          test -f Docs/API.pdf
+          test -f Docs/ERD.drawio.pdf
+
+      - name: Validate repository structure
+        run: |
+          test -d Docs
+          test -d .github/workflows
+
+      - name: Part 1 validation successful
+        run: echo "Prog6212 Part 1 files and structure are valid."
