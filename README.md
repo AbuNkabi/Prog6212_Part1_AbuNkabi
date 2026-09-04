@@ -101,4 +101,39 @@ The API Endpoint Plan is stored in:
 
 docs/API.pdf
 
+This section contains the SQL Database Scripts.SQL Database Scripts included in Section C.
+
+The RaceDay database can be tested by running SQL Server Management Studio (SSMS) and supports SQL Server.
+
+The SQL script has:
+
+CREATE TABLE statements.
+
+Primary keys.
+
+Foreign keys.
+
+WHERE necessary, add NOT NULL constraints.
+
+Include UNIQUE constraints if they are applicable.
+
+Use default values – where appropriate.
+
+Realistic sample data.
+
+The database includes sample data on the following:
+
+2 Organisers.
+
+2 Participants.
+
+3 Events.
+
+There are several categories for Events:
+
+Sample Enrolments.
+
+The following SQL Database Script is stored in:
+Pictures folder
+docs/API.sql
 
